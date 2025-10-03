@@ -11,7 +11,9 @@
 
 **export LD_LIBRARY_PATH=~/path/to/d1_sdk/lib:/usr/local/lib:$LD_LIBRARY_PATH**
 
------- INFO --------
+**------ INFO --------**
+
+
 To get the simulation and code running use the following commands:
 
 1) ros2 launch abb_arm gazebo.launch.py -> This will launch the gazebo simulation and rviz window that can be used for MoveIt Motion Planning.
