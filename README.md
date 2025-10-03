@@ -16,6 +16,6 @@
 
 To get the simulation and code running use the following commands:
 
-1) **ros2 launch abb_arm gazebo.launch.py **-> This will launch the gazebo simulation and rviz window that can be used for MoveIt Motion Planning.
+1) **ros2 launch abb_arm gazebo.launch.py**-> This will launch the gazebo simulation and rviz window that can be used for MoveIt Motion Planning.
 2) **ros2 run my_arm_control move_arm** -> This will interface the physical arm using the Ethernet connection.
-3) **ros2 run move_program move_program **-> This will run a CPP script to move the end-effector to a particular position and orientation.
+3) **ros2 run move_program move_program**-> This will run a CPP script to move the end-effector to a particular position and orientation.
