@@ -1,4 +1,4 @@
-## Move It2 Setup for Unitree Go2 with D1 arm.
+# Move It2 Setup for Unitree Go2 with D1 arm.
 
 1) Add the following packages to the src folder of your ROS2 workspace.
    
@@ -11,7 +11,7 @@
 
 **export LD_LIBRARY_PATH=~/path/to/d1_sdk/lib:/usr/local/lib:$LD_LIBRARY_PATH**
 
-# INFO
+## INFO
 
 
 To get the simulation and code running use the following commands:
