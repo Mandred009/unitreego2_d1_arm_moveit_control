@@ -11,7 +11,7 @@
 
 **export LD_LIBRARY_PATH=~/path/to/d1_sdk/lib:/usr/local/lib:$LD_LIBRARY_PATH**
 
-#**------ INFO --------**
+# INFO
 
 
 To get the simulation and code running use the following commands:
